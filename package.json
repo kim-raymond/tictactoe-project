@@ -25,5 +25,17 @@
     "prettier": "^2.8.8",
     "sass": "^1.62.1",
     "vite": "^4.3.2"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim-raymond/tictactoe-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kim-raymond/tictactoe-project/issues"
+  },
+  "homepage": "https://github.com/kim-raymond/tictactoe-project#readme",
+  "description": ""
 }
